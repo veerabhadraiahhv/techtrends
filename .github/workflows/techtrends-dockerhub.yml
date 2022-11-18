@@ -47,4 +47,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: veerabhadraiahhv/techtrends:v1.0.0
+          tags: veerabhadraiahhv/techtrends:latest
